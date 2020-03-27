@@ -1,0 +1,15 @@
+{
+  "name": "socket-chat",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "4.16.4"
+  },
+  "devDependencies": {
+    "sucrase": "^3.12.1"
+  }
+}
